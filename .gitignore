@@ -3,3 +3,8 @@
 debug
 nbproject
 Makefile
+report
+mcc_generated_files
+dist
+build
+PIC_Config.mc3
